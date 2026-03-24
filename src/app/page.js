@@ -10,8 +10,10 @@ export default function Home() {
             Edwin's Portfolio
           </h1>
           <p className="max-w-md text-lg leading-10 text-zinc-600 dark:text-zinc-400">
+            
             I am an aspiring software engineer with a passion for building things that I can use on a daily basis. <br></br> 
-            I have a strong background in full stack web development, simulator development, and tool development. I am always looking for new challenges to tackle. I am currently working on a project called "Edwin's Portfolio", which is a collection of my work and projects that I have been involved in.
+            I have a strong background in full stack web development, simulator development, and tool development. I am always looking for new challenges to tackle. <br></br>
+            I am currently working on my portfolio, which is a collection of my work and projects that I have been involved in.
           </p>
         </div>
         
